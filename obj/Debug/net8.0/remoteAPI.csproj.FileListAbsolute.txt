@@ -1,0 +1,14 @@
+/Users/crsimo99/projects/mm-203/remoteAPI/bin/Debug/net8.0/remoteAPI
+/Users/crsimo99/projects/mm-203/remoteAPI/bin/Debug/net8.0/remoteAPI.deps.json
+/Users/crsimo99/projects/mm-203/remoteAPI/bin/Debug/net8.0/remoteAPI.runtimeconfig.json
+/Users/crsimo99/projects/mm-203/remoteAPI/bin/Debug/net8.0/remoteAPI.dll
+/Users/crsimo99/projects/mm-203/remoteAPI/bin/Debug/net8.0/remoteAPI.pdb
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/remoteAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/remoteAPI.AssemblyInfoInputs.cache
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/remoteAPI.AssemblyInfo.cs
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/remoteAPI.csproj.CoreCompileInputs.cache
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/remoteAPI.dll
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/refint/remoteAPI.dll
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/remoteAPI.pdb
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/remoteAPI.genruntimeconfig.cache
+/Users/crsimo99/projects/mm-203/remoteAPI/obj/Debug/net8.0/ref/remoteAPI.dll
